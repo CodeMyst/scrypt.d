@@ -2,3 +2,5 @@
 *.swp
 *.swo
 *~
+.dub/
+scrypt-d
